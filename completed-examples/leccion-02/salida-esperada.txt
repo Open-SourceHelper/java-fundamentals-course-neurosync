@@ -1,0 +1,4 @@
+Edad inicial: 15
+Edad siguiente: 16
+Mascota: Luna
+Premios: 5
