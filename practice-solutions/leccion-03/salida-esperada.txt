@@ -1,0 +1,7 @@
+Empieza por el reto inicial
+Salto 1
+Salto 2
+Salto 3
+Cuenta: 2
+Cuenta: 1
+Fin
