@@ -58,13 +58,13 @@ Repositorio de código: [Open-SourceHelper/java-fundamentals-course-neurosync](h
 - Tutoriales actuales enlazados por Oracle: https://dev.java/learn/
 - Cuestionario y respuestas: scripts/leccion-06/. Código inicial: starter-files/. Ejemplos: completed-examples/. Soluciones: practice-solutions/.
 
-| Actividad | Editor oficial | Material listo | Enlace precargado |
-|---|---|---|---|
-| 1 Hola mundo | Replit | leccion-01/Main.java | Pendiente |
-| 2 Variables | Replit | leccion-02/Main.java | Pendiente |
-| 3 Decisiones y bucles | JDoodle | leccion-03/Main.java | Pendiente |
-| 4 Métodos y objetos | OnlineGDB | leccion-04/Main.java | Pendiente |
-| 5 Aplicación POO | Replit | leccion-05/Main.java | Pendiente |
+| Actividad             | Editor oficial | Material listo        | Enlace precargado |
+|-----------------------|----------------|-----------------------|-------------------|
+| 1 Hola mundo          | Replit         | leccion-01/Main.java  | Pendiente         |
+| 2 Variables           | Replit         | leccion-02/Main.java  | Pendiente         |
+| 3 Decisiones y bucles | JDoodle        | leccion-03/Main.java  | Pendiente         |
+| 4 Métodos y objetos   | OnlineGDB      | leccion-04/Main.java  | Pendiente         |
+| 5 Aplicación POO      | Replit         | leccion-05/Main.java  | Pendiente         |
 
 Las direcciones de los editores son accesos generales, no ejercicios precargados. Replit actualmente indica crear una cuenta; verificar el acceso gratuito antes de distribuir. No se afirma que el acceso anónimo del ejemplo del profesor siga disponible. La actividad de compartir puede usar #JavaBeginners en el canal acordado, sin datos personales.
 
@@ -80,13 +80,13 @@ Las direcciones de los editores son accesos generales, no ejercicios precargados
 - Integrantes y códigos: ____________________.
 - Fecha de entrega: ____________________.
 
-| Responsable | Lecciones asignadas | Videos | Minutos |
-|---|---|---|---|
-| Integrante 1 — nombre pendiente | 1 y 6 | 2 | 15 |
-| Integrante 2 — nombre pendiente | 2 | 1 | 8 |
-| Integrante 3 — nombre pendiente | 3 | 1 | 10 |
-| Integrante 4 — nombre pendiente | 4 | 1 | 12 |
-| Integrante 5 — nombre pendiente | 5 | 1 | 15 |
-| Total | 6 lecciones | 6 | 60 |
+| Responsable                     | Lecciones asignadas | Videos | Minutos |
+|---------------------------------|---------------------|--------|---------|
+| Integrante 1 — nombre pendiente | 1 y 6               | 2      | 15      |
+| Integrante 2 — nombre pendiente | 2                   | 1      | 8       |
+| Integrante 3 — nombre pendiente | 3                   | 1      | 10      |
+| Integrante 4 — nombre pendiente | 4                   | 1      | 12      |
+| Integrante 5 — nombre pendiente | 5                   | 1      | 15      |
+| Total                           | 6 lecciones         | 6      | 60      |
 
 Las asignaciones son un plan de trabajo. Las contribuciones efectivamente realizadas se documentarán con evidencias en el Participant Performance Report.
