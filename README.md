@@ -6,12 +6,12 @@ Consulta el [plan del curso](upc-pre-202620-1asi0729-7793-neurosync-course-plan.
 
 | # | Lección | Duración | Editor o recurso | Video | Rama |
 |---|---|---:|---|---|---|
-| 1 | ¿Qué es Java y la Programación? | 5 min | [Replit](https://replit.com/) | [Ver en YouTube](https://youtu.be/Y8xFMt5QvDI) | [feature/lesson-1](https://github.com/Open-SourceHelper/leccion-/tree/feature/lesson-1) |
-| 2 | Variables y tipos de datos | 8 min | [Replit](https://replit.com/) | [Ver en YouTube](https://youtu.be/2nKUMU2LkhE) | [feature/lesson-2](https://github.com/Open-SourceHelper/leccion-/tree/feature/lesson-2) |
-| 3 | Estructuras de control: Decisiones y bucles | 10 min | [JDoodle](https://www.jdoodle.com/online-java-compiler) | [Ver en YouTube](https://youtu.be/acggVq6OIbY) | [feature/lesson-3](https://github.com/Open-SourceHelper/leccion-/tree/feature/lesson-3) |
-| 4 | Métodos, Entrada/Salida e Introducción a la POO | 12 min | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) | Pendiente | [feature/lesson-4](https://github.com/Open-SourceHelper/leccion-/tree/feature/lesson-4) |
-| 5 | Fundamentos de POO y programas sencillos | 15 min | [Replit](https://replit.com/) | Pendiente | [feature/lesson-5](https://github.com/Open-SourceHelper/leccion-/tree/feature/lesson-5) |
-| 6 | Consejos y próximos pasos | 10 min | [Documentación Oracle](https://docs.oracle.com/en/java/) | [Ver en YouTube](https://youtu.be/YZpjWOAo50Y) | [feature/lesson-6](https://github.com/Open-SourceHelper/leccion-/tree/feature/lesson-6) |
+| 1 | ¿Qué es Java y la Programación? | 5 min | [Replit](https://replit.com/) | [Ver en YouTube](https://youtu.be/Y8xFMt5QvDI) | [feature/lesson-1](https://github.com/Open-SourceHelper/java-fundamentals-course-neurosync/tree/feature/lesson-1) |
+| 2 | Variables y tipos de datos | 8 min | [Replit](https://replit.com/) | [Ver en YouTube](https://youtu.be/2nKUMU2LkhE) | [feature/lesson-2](https://github.com/Open-SourceHelper/java-fundamentals-course-neurosync/tree/feature/lesson-2) |
+| 3 | Estructuras de control: Decisiones y bucles | 10 min | [JDoodle](https://www.jdoodle.com/online-java-compiler) | [Ver en YouTube](https://youtu.be/acggVq6OIbY) | [feature/lesson-3](https://github.com/Open-SourceHelper/java-fundamentals-course-neurosync/tree/feature/lesson-3) |
+| 4 | Métodos, Entrada/Salida e Introducción a la POO | 12 min | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) | Pendiente | [feature/lesson-4](https://github.com/Open-SourceHelper/java-fundamentals-course-neurosync/tree/feature/lesson-4) |
+| 5 | Fundamentos de POO y programas sencillos | 15 min | [Replit](https://replit.com/) | Pendiente | [feature/lesson-5](https://github.com/Open-SourceHelper/java-fundamentals-course-neurosync/tree/feature/lesson-5) |
+| 6 | Consejos y próximos pasos | 10 min | [Documentación Oracle](https://docs.oracle.com/en/java/) | [Ver en YouTube](https://youtu.be/YZpjWOAo50Y) | [feature/lesson-6](https://github.com/Open-SourceHelper/java-fundamentals-course-neurosync/tree/feature/lesson-6) |
 
 ## Cómo practicar
 
