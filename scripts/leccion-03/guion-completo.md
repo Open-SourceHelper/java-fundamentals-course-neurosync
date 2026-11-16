@@ -226,7 +226,7 @@ Fin
 
 ## Enlaces
 
-Editor o recurso oficial: https://www.jdoodle.com/online-java-compiler. Enlace al ejercicio precargado: **PENDIENTE DE CREACIÓN Y PRUEBA ONLINE**. Video de YouTube: [Ver video en YouTube](https://youtu.be/acggVq6OIbY). Consulta el [plan del curso](../../upc-pre-202620-1asi0729-7793-neurosync-course-plan.md).
+Editor o recurso oficial: https://www.jdoodle.com/online-java-compiler. Enlace al ejercicio precargado: **PENDIENTE DE CREACIÓN Y PRUEBA ONLINE**. Video de YouTube: Pendiente. Consulta el [plan del curso](../../upc-pre-202620-1asi0729-7793-neurosync-course-plan.md).
 
 ## Conclusión
 
