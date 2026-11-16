@@ -4,7 +4,7 @@
 
 Curso gratuito de introducción a Java para estudiantes de 12 a 17 años, sin conocimientos previos. Duración de los videos: 60 minutos en seis lecciones. Las prácticas se realizan en el navegador, sin instalar programas. El tiempo de práctica con el video pausado es adicional.
 
-Repositorio de código: [Open-SourceHelper/leccion-](https://github.com/Open-SourceHelper/leccion-).
+Repositorio de código: [Open-SourceHelper/java-fundamentals-course-neurosync](https://github.com/Open-SourceHelper/java-fundamentals-course-neurosync).
 
 ## Secuencia de la Lección
 
@@ -52,7 +52,7 @@ Repositorio de código: [Open-SourceHelper/leccion-](https://github.com/Open-Sou
 
 ## Recursos adicionales
 
-- Código: [repositorio del curso](https://github.com/Open-SourceHelper/leccion-). Los enlaces a ejercicios precargados están pendientes.
+- Código: [repositorio del curso](https://github.com/Open-SourceHelper/java-fundamentals-course-neurosync). Los enlaces a ejercicios precargados están pendientes.
 - Documentación oficial de Oracle Java: https://docs.oracle.com/en/java/
 - Fundamentos en Oracle: https://docs.oracle.com/javase/tutorial/java/index.html (tutorial de JDK 8; revisar su aviso de versión).
 - Tutoriales actuales enlazados por Oracle: https://dev.java/learn/
