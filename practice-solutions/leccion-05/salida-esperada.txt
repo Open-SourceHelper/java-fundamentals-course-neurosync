@@ -1,0 +1,9 @@
+Nube juega
+Nube juega
+Nube juega
+Nube necesita descansar
+Energia: 0
+Despues de descansar: 1
+Nombre: Nube
+Nombre nuevo: Sol
+Letras: 3

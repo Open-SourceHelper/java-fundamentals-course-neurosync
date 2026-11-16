@@ -1,0 +1,5 @@
+Luna: 3
+Luna juega
+Luna juega
+Sol: 2
+Letras del nombre: 3

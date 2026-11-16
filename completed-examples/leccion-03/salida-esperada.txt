@@ -1,0 +1,10 @@
+Puedes entrar al reto avanzado
+Salto 1
+Salto 2
+Salto 3
+Salto 4
+Salto 5
+Cuenta: 3
+Cuenta: 2
+Cuenta: 1
+Fin

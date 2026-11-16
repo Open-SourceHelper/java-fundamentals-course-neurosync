@@ -1,0 +1,3 @@
+Edad: 14
+Mascota: Sol
+Premios: 7

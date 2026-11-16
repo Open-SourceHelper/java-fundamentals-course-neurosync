@@ -1,0 +1,4 @@
+Hola, vamos a conocer a tu mascota
+Escribe el nombre de tu mascota:
+Bienvenida, Luna
+Bienvenida, Sol
