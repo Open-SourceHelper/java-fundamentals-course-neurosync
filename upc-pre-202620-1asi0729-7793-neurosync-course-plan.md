@@ -25,7 +25,7 @@ Repositorio de código: [Open-SourceHelper/java-fundamentals-course-neurosync](h
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver video en YouTube](https://youtu.be/acggVq6OIbY)
+- **Enlace**: Pendiente
 - **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
 - **Práctica**: Decisiones y bucles en JDoodle. Ejercicio precargado pendiente. Editor: https://www.jdoodle.com/online-java-compiler.
 
