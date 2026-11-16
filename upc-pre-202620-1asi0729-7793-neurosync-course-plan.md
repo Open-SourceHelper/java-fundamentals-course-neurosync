@@ -80,13 +80,13 @@ Las direcciones de los editores son accesos generales, no ejercicios precargados
 - Integrantes y códigos: ____________________.
 - Fecha de entrega: ____________________.
 
-| Responsable                     | Lecciones asignadas | Videos | Minutos |
-|---------------------------------|---------------------|--------|---------|
-| Integrante 1 — nombre pendiente | 1 y 6               | 2      | 15      |
-| Integrante 2 — nombre pendiente | 2                   | 1      | 8       |
-| Integrante 3 — nombre pendiente | 3                   | 1      | 10      |
-| Integrante 4 — nombre pendiente | 4                   | 1      | 12      |
-| Integrante 5 — nombre pendiente | 5                   | 1      | 15      |
-| Total                           | 6 lecciones         | 6      | 60      |
+| Responsable                                   | Lecciones asignadas | Videos | Minutos |
+|-----------------------------------------------|---------------------|--------|---------|
+| Integrante 1 — nombre pendiente               | 1 y 6               | 2      | 15      |
+| Integrante 2 — Gabriel Alejandro Vilchez Vite | 2                   | 1      | 8       |
+| Integrante 3 — nombre pendiente               | 3                   | 1      | 10      |
+| Integrante 4 — nombre pendiente               | 4                   | 1      | 12      |
+| Integrante 5 — nombre pendiente               | 5                   | 1      | 15      |
+| Total                                         | 6 lecciones         | 6      | 60      |
 
 Las asignaciones son un plan de trabajo. Las contribuciones efectivamente realizadas se documentarán con evidencias en el Participant Performance Report.
