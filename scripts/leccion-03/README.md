@@ -1,6 +1,6 @@
 # Lección 3: Estructuras de control: Decisiones y bucles
 
-Duración prevista: **10 minutos**. Video: [Ver en YouTube](https://youtu.be/acggVq6OIbY).
+Duración prevista: **10 minutos**. Video: Pendiente.
 
 Abre [JDoodle](https://www.jdoodle.com/online-java-compiler), copia un solo `Main.java` y ejecuta el programa. El enlace abre el editor general; el enlace precargado de la práctica está pendiente.
 
